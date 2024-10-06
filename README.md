@@ -1,9 +1,9 @@
 
-OVERVIEW:
+#OVERVIEW:
 
 In a highly competitive market, businesses must continuously optimize internal processes to maintain relevance. This analysis evaluates key performance metrics of a call center, focusing on Average Call Time, Average Handling Time, Average Call Rating, and Closed Call Status.
 
-APPROACH:
+#APPROACH:
 
 •	Data for over 10 countries' call centers, including call times, response times, call status, and ratings, was generated using Python.
 
@@ -13,7 +13,7 @@ APPROACH:
 
 •	Power BI was used for analysis, modeling, and creating dashboards to visualize performance.
 
-INSIGHTS:
+#INSIGHTS:
 
 •	Average response time exceeded the target of 120 seconds.
 
@@ -25,7 +25,7 @@ INSIGHTS:
 
 •	Most locations averaged a rating score of ≤ 6.0.
 
-RECOMMENDATIONS:
+#RECOMMENDATIONS:
 
 •	Response Time: Longer response times may indicate inefficiencies in the IVR system or a shortage of available representatives. Reducing IVR length or increasing staffing may improve response times.
 
