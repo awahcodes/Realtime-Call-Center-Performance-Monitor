@@ -1,4 +1,3 @@
-# Commits and files in master
 
 OVERVIEW:
 
